@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matkotatko
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning how to code on C++.
+- 🌱 I’m currently learning how to code in C++.
 - 💞️ I’m looking to collaborate on i dont know... Never.
 - 📫 How to reach me: e-Mail me at a.matej@yahoo.com or itsmemario589@gmail.com
 
